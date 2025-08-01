@@ -26,3 +26,8 @@ Smooth multi-color LED fading using PWM on an ESP32. This sketch drives 5 LEDs w
 6. Enjoy the smooth fading color wave!
 
 ---
+## 📃 License
+
+MIT License — free to use, modify, and share.
+
+---
